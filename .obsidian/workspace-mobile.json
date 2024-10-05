@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d31b1c57c94caac1",
+            "id": "acf4f9b914d5dd3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сессии/2024-09-14.md",
+                "file": "Сессии/2024-10-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Сессии/2024-09-14.md",
+            "file": "Сессии/2024-10-05.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Сессии/2024-09-14.md",
+            "file": "Сессии/2024-10-05.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Сессии/2024-09-14.md"
+            "file": "Сессии/2024-10-05.md"
           }
         }
       },
@@ -148,14 +148,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d31b1c57c94caac1",
+  "active": "acf4f9b914d5dd3c",
   "lastOpenFiles": [
-    "Сессии/2024-08-31.md",
-    "Сессии/2024-09-14.md",
-    "Бельхейм/Дом ханклея/О доме.md",
     "Магаузер - предметы.md",
-    "Магаузер - Заклинания.md",
+    "Магаузер - Состояние.md",
+    "Сессии/2024-10-05.md",
     "Нуменорих Кутта.md",
+    "Сессии/2024-09-14.md",
+    "Сессии/2024-08-31.md",
+    "Бельхейм/Дом ханклея/О доме.md",
     "Сессии/2024-06-22.md",
     "Бельхейм/Дом ханклея/Ханклей-список-дел.jpg",
     "Бельхейм/Ориджина Дейви.md",
