@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Магаузер - предметы.md",
+                "file": "Магаузер - Состояние.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Магаузер - предметы.md",
+            "file": "Магаузер - Состояние.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Магаузер - предметы.md",
+            "file": "Магаузер - Состояние.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Магаузер - предметы.md"
+            "file": "Магаузер - Состояние.md"
           }
         }
       },
@@ -150,9 +150,9 @@
   },
   "active": "acf4f9b914d5dd3c",
   "lastOpenFiles": [
-    "Бельхейм/Ханклей.md",
-    "Сессии/2024-10-05.md",
     "Магаузер - предметы.md",
+    "Сессии/2024-10-05.md",
+    "Бельхейм/Ханклей.md",
     "Магаузер - Состояние.md",
     "Нуменорих Кутта.md",
     "Сессии/2024-09-14.md",
