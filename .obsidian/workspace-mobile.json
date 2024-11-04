@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "341304533486379a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/2024-11-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Магаузер - Состояние.md",
+            "file": "Сессии/2024-11-03.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Магаузер - Состояние.md",
+            "file": "Сессии/2024-11-03.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Магаузер - Состояние.md"
+            "file": "Сессии/2024-11-03.md"
           }
         }
       },
@@ -148,20 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25ccf749d7904e1e",
+  "active": "341304533486379a",
   "lastOpenFiles": [
     "Магаузер - предметы.md",
     "Магаузер - Состояние.md",
-    "Сессии/2024-10-05.md",
-    "Сессии/2024-10-19.md",
-    "Бельхейм/Ханклей.md",
+    "Сессии/2024-11-03.md",
+    "Бельхейм/Ориджина Дейви.md",
     "Нуменорих Кутта.md",
+    "Сессии/2024-10-19.md",
+    "Бестиарий/Гриоты.md",
+    "Бестиарий",
+    "Сессии/2024-10-05.md",
+    "Бельхейм/Ханклей.md",
     "Сессии/2024-09-14.md",
     "Сессии/2024-08-31.md",
     "Бельхейм/Дом ханклея/О доме.md",
     "Сессии/2024-06-22.md",
     "Бельхейм/Дом ханклея/Ханклей-список-дел.jpg",
-    "Бельхейм/Ориджина Дейви.md",
     "LICENSE",
     "Untitled.canvas",
     "Сессии",
