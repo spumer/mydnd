@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25ccf749d7904e1e",
+            "id": "06d95291684fd270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Магаузер - Состояние.md",
+                "file": "Сессии/2024-12-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "1bcf9b1dfb43b4d6",
@@ -86,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Магаузер - Состояние.md",
+            "file": "Сессии/2024-12-08.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Магаузер - Состояние.md",
+            "file": "Сессии/2024-12-08.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Магаузер - Состояние.md"
+            "file": "Сессии/2024-12-08.md"
           }
         }
       },
@@ -148,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25ccf749d7904e1e",
+  "active": "06d95291684fd270",
   "lastOpenFiles": [
-    "Магаузер - предметы.md",
-    "Магаузер - Состояние.md",
-    "Нуменорих Кутта.md",
     "Сессии/2024-11-03.md",
+    "Сессии/2024-12-08.md",
+    "Магаузер - Состояние.md",
+    "Магаузер - предметы.md",
+    "Нуменорих Кутта.md",
     "Бельхейм/Ориджина Дейви.md",
     "Сессии/2024-10-19.md",
     "Бестиарий/Гриоты.md",
