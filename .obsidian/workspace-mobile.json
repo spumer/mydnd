@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сессии/2024-12-08.md",
+                "file": "Сессии/2025-01-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22844a71e21ff5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/2025-01-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "1bcf9b1dfb43b4d6",
@@ -85,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Сессии/2024-12-08.md",
+            "file": "Сессии/2025-01-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Сессии/2024-12-08.md",
+            "file": "Сессии/2025-01-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Сессии/2024-12-08.md"
+            "file": "Сессии/2025-01-25.md"
           }
         }
       },
@@ -147,12 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06d95291684fd270",
+  "active": "22844a71e21ff5af",
   "lastOpenFiles": [
-    "Сессии/2024-11-03.md",
-    "Сессии/2024-12-08.md",
-    "Магаузер - Состояние.md",
     "Магаузер - предметы.md",
+    "Магаузер - Состояние.md",
+    "Сессии/2025-01-25.md",
+    "Сессии/2025-01-07.md",
+    "Сессии/2024-12-08.md",
+    "Сессии/2024-11-03.md",
     "Нуменорих Кутта.md",
     "Бельхейм/Ориджина Дейви.md",
     "Сессии/2024-10-19.md",
