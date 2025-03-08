@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06d95291684fd270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сессии/2025-01-07.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22844a71e21ff5af",
             "type": "leaf",
             "state": {
@@ -30,9 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5482b0a5382ce224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/2025-02-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d49ffd4715abbea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сессии/2025-02-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c06023b7c2c8cb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Баллады/В глубинах монастыря Святой Каериксы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Сессии/2025-01-25.md",
+            "file": "Баллады/В глубинах монастыря Святой Каериксы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Сессии/2025-01-25.md",
+            "file": "Баллады/В глубинах монастыря Святой Каериксы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +152,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Сессии/2025-01-25.md"
+            "file": "Баллады/В глубинах монастыря Святой Каериксы.md"
           }
         }
       },
@@ -161,25 +185,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22844a71e21ff5af",
+  "active": "c06023b7c2c8cb40",
   "lastOpenFiles": [
-    "Магаузер - предметы.md",
-    "Магаузер - Состояние.md",
+    "Сессии/2025-02-15.md",
+    "Баллады/В глубинах монастыря Святой Каериксы.md",
+    "Баллады",
+    "Сессии/2025-03-08.md",
+    "Мертвые/Магаузер - Состояние.md",
+    "Мертвые/Магаузер - предметы.md",
+    "Тактикус - Состояние.md",
+    "Мертвые",
+    "Бестиарий/Гриоты.md",
     "Сессии/2025-01-25.md",
+    "Сессии/2024-06-22.md",
     "Сессии/2025-01-07.md",
     "Сессии/2024-12-08.md",
     "Сессии/2024-11-03.md",
     "Нуменорих Кутта.md",
     "Бельхейм/Ориджина Дейви.md",
     "Сессии/2024-10-19.md",
-    "Бестиарий/Гриоты.md",
     "Бестиарий",
     "Сессии/2024-10-05.md",
     "Бельхейм/Ханклей.md",
     "Сессии/2024-09-14.md",
     "Сессии/2024-08-31.md",
     "Бельхейм/Дом ханклея/О доме.md",
-    "Сессии/2024-06-22.md",
     "Бельхейм/Дом ханклея/Ханклей-список-дел.jpg",
     "LICENSE",
     "Untitled.canvas",
