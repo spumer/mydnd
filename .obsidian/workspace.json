@@ -166,13 +166,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a93275de07855f9d",
+  "active": "85d2425f7329318c",
   "lastOpenFiles": [
-    "Ультиматум Дракона/Бестиарий/Гриоты.md",
+    "Ультиматум Дракона/Баллады/Седьмой рассвет Бельхейма.md",
+    "conflict-files-obsidian-git.md",
     "Как я играю.md",
+    "Ультиматум Дракона/Бестиарий/Гриоты.md",
     "Ультиматум Дракона",
     "Ультиматум Дракона/Нуменорих Кутта.md",
     "Ультиматум Дракона/Лин Као - Снаряжение.md",
