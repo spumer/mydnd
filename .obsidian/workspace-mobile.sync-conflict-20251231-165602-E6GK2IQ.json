@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сессии/2024-06-22.md",
+                "file": "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-06-22"
+              "title": "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ)"
             }
           }
         ],
@@ -197,7 +197,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Сессии/2024-06-22.md",
+            "file": "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Сессии/2024-06-22.md",
+            "file": "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -230,7 +230,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Сессии/2024-06-22.md",
+            "file": "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -245,8 +245,8 @@
         "state": {
           "type": "git-history-view",
           "state": {},
-          "icon": "history",
-          "title": "History"
+          "icon": "lucide-ghost",
+          "title": "git-history-view"
         }
       },
       {
@@ -255,8 +255,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "lucide-ghost",
+          "title": "git-view"
         }
       }
     ],
@@ -264,8 +264,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -276,16 +276,16 @@
   },
   "active": "f9d8ee3e0ce7b4c8",
   "lastOpenFiles": [
-    "Сессии/2025-03-08.md",
-    "Сессии/2025-04-20.md",
-    "Сессии/2025-04-27.md",
-    "Сессии/2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
-    "Лин Као - Снаряжение.md",
-    "Лин Као - Описание.md",
     "Мертвые/Магаузер - предметы.md",
+    "2025-06-14 (КОНЕЦ ПЕРВОЙ ЧАСТИ).md",
+    "Лин Као - Описание.md",
     "Мертвые/Магаузер - Состояние.md",
+    "Сессии/2025-04-27.md",
     "/Баллады",
+    "Лин Као - Снаряжение.md",
+    "Сессии/2025-04-20.md",
     "Нуменорих Кутта.md",
+    "Сессии/2025-03-08.md",
     "Сессии/2025-03-22.md",
     "Сессии/2025-01-07.md",
     "Сессии/2025-01-25.md",
